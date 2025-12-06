@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Vedant  
+# 👋 Hey, I’m PARAS
 `still learning, still debugging, still having fun.`  
 
 ---
