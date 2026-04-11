@@ -7,7 +7,7 @@
 ### 🧑‍💻 About Me  
 
 
-💻 Full-Stack Developer building robust, production-ready applications.  
+💻 Full-Stack Developer building robust, production-ready applications 
 ⚙️ MERN Stack Specialist — MongoDB | Express.js | React | Node.js  
 ☕ Strong in Java & DSA — focused on performance and problem-solving.  
 🔥 Consistency today. Mastery tomorrow.
